@@ -17,4 +17,4 @@ After 3 folow the steps in the command prompt.
 You can optionally run cls to clear your screen to avoid clutter.
 
 # Contribute
-- Clone repository. Create branch form develop. Start working on an issue from the backlog. 
+- Clone repository. Create branch form master. Start working on an issue from the backlog. 
